@@ -2,5 +2,5 @@
     "appId":"com.neighbor.alpha.tmbca",
     "isLive":true,
     "moveId":"com.test.moveid",
-    isShowInter: true
+    "isShowInter": true
 }
